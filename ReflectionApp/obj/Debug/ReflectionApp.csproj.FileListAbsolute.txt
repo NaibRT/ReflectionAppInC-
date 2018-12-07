@@ -1,0 +1,10 @@
+C:\Users\naibrt\source\repos\ReflectionApp\ReflectionApp\bin\Debug\ReflectionApp.exe.config
+C:\Users\naibrt\source\repos\ReflectionApp\ReflectionApp\bin\Debug\ReflectionApp.exe
+C:\Users\naibrt\source\repos\ReflectionApp\ReflectionApp\bin\Debug\ReflectionApp.pdb
+C:\Users\naibrt\source\repos\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.csprojResolveAssemblyReference.cache
+C:\Users\naibrt\source\repos\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.Form1.resources
+C:\Users\naibrt\source\repos\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.Properties.Resources.resources
+C:\Users\naibrt\source\repos\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.csproj.GenerateResource.Cache
+C:\Users\naibrt\source\repos\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.csproj.CoreCompileInputs.cache
+C:\Users\naibrt\source\repos\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.exe
+C:\Users\naibrt\source\repos\ReflectionApp\ReflectionApp\obj\Debug\ReflectionApp.pdb
