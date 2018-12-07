@@ -20,8 +20,24 @@ namespace ReflectionApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            DialogResult filedialog = DialogResult.OK;
-            MessageBox.Show("Test");
+            OpenFileDialog filedialog = new OpenFileDialog();
+            filedialog.Title = "Choose one DLL";
+            filedialog.Filter = "Files| *.dll";
+            filedialog.InitialDirectory = @"C:\";
+            filedialog.InitialDirectory = @"C:\";
+            filedialog.InitialDirectory = @"C:\";
+            filedialog.InitialDirectory = @"C:\";
+            if (filedialog.ShowDialog()==DialogResult.OK)
+            {
+                textBox1.Text = filedialog.FileName;
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string path = textBox1.Text;
+            DirectoryInfo directory = new DirectoryInfo(path);
+            directory.GetFiles();
         }
     }
 }
